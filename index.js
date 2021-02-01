@@ -3,6 +3,9 @@
 //solution i thought of is to use classic elementary school calc inorder 
 //to ensure a reliable solution. 
 
+//Here is a link that helped me with the code   :)
+//https://stackoverflow.com/questions/46665219/addition-with-carryover-in-arrays-in-pure-javascript
+
 
 
 
